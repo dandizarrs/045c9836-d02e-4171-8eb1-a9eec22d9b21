@@ -1,1 +1,2 @@
+0f014583-e32b-4171-926c-6ed7413fde87 cost=300 sameas-name=dandiapi sameas-uuid=00000000-0000-0000-0000-000000000001 type=web urlinclude=*//api.dandiarchive.org/* timestamp=1675453200.149795541s
 727f466f-60c3-4778-90b2-b2332856c2f9 chunk=1GB embedcreds=no encryption=none externaltype=rclone name=dandi-dandizarrs-dropbox prefix=dandi-dandizarrs/annexstore rclone_layout=lower target=dandi-dandizarrs-dropbox type=external timestamp=1655270354.444438s
